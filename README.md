@@ -2,7 +2,7 @@
 
 Project Description
 
-In this project I will analyze product data for an online sports retail company to help optimize revenue using SQL. I worked with numeric, string, and timestamp data on pricing and revenue, ratings, reviews, descriptions, and website traffic. Techniques such as joins, Common Table Expressions (CTEs), casting, summarizing and aggregating numeric data, correlation, truncating, and working with dates, times, and strings were used to produce recommendations on how the company can maximize their revenue.
+In this project I analyzed product data for an online sports retail company to help them optimize their revenue using SQL. The dataset I worked with contained numerous coulumns and tables containing numeric, string, and timestamp data on pricing and revenue, ratings, reviews, descriptions, and website traffic. Techniques such as joins, Common Table Expressions (CTEs), casting, summarizing and aggregating numeric data, correlation, truncating, and working with dates, times, and strings were used to produce recommendations on how the company can maximize their revenue. 
 
 
 Project Tasks
